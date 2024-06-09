@@ -26,6 +26,43 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+.bg-red-400{
+  background-color: rgb(248 113 113);
+}
+.bg-red-600{
+  background-color: rgb(220 38 38);
+}
+.text-red-600{
+  color: rgb(220 38 38);
+}
+.bg-orange-400{
+  background-color: rgb(251 146 60);
+}
+.bg-orange-600{
+  background-color: rgb(234 88 12);
+}
+.text-orange-600{
+  color: rgb(234 88 12);
+}
+.bg-blue-400{
+  background-color: rgb(96 165 250);
+}
+.bg-blue-600{
+  background-color: rgb(37 99 235);
+}
+.text-blue-600{
+  color: rgb(37 99 235);
+}
+.bg-green-400{
+  background-color: rgb(74 222 128);
+}
+.bg-green-600{
+  background-color: rgb(22 163 74);
+}
+.text-green-600{
+  color: rgb(22 163 74);
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
