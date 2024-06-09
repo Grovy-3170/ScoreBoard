@@ -1,7 +1,7 @@
 "use client"
 import React from "react";
 import Graph from "./Graph";
-import Form from "./form";
+import Form from "./Form";
 import { useSelector, useDispatch } from "react-redux";
 
 const Details = () => {
